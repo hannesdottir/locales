@@ -1,3 +1,8 @@
 {
-    
+    "languagebutton": {
+        "sv": "Swedish",
+        "en": "English",
+        "is": "Icelandic"
+    }
 }
+
