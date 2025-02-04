@@ -2,7 +2,10 @@
     "languagebutton": {
         "sv": "Swedish",
         "en": "English",
-        "is": "Icelandic"
+        "is": "Icelandic",
+        "nytt": "test1",
+        "nytt1": "test2",
+        "nytt2": "test3"
     }
 }
 
